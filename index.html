@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta data-n-head="ssr" data-hid="theme-color" name="theme-color" content="#7D93C8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, archive">
+    <meta name="description" content="Find synonyms and antonyms for any word with our easy-to-use web app.">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Thesaurus Lookup">
+    <meta property="og:description" content="Discover synonyms and antonyms for any word.">
+    <meta property="og:image" content="img/favicon.png">
+    <meta property="og:url" content="https://yourwebsite.com/">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <title>Thesaurus Lookup</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>Thesaurus Lookup</h1>
+            <p>Find synonyms and antonyms for any word.</p>
+        </header>
+        <div class="form">
+            <input type="text" placeholder="Enter a word" aria-label="Word Input" required>
+            <button>Find</button>
+        </div>
+        <div class="loading-spinner" style="display: none;">Loading...</div>
+        <div class="results">
+            <div class="synonym-results">
+                <h2 class="synonym-title" style="display: none;">Synonyms:</h2>
+                <ul id="synonym-list"></ul>
+            </div>
+            <div class="antonym-results">
+                <h2 class="antonym-title" style="display: none;">Antonyms:</h2>
+                <ul id="antonym-list"></ul>
+            </div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>
+</html>
