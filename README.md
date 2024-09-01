@@ -24,8 +24,8 @@ A modern web application that allows users to look up synonyms and antonyms for 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/word-synonyms-antonyms-finder.git
-    cd word-synonyms-antonyms-finder
+    git clone https://github.com/RojanSapkota/thesaurus-lookup.git
+    cd thesaurus-lookup
     ```
 
 2. **Open the Application**
