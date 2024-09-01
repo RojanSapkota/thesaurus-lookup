@@ -2,6 +2,11 @@
 
 A modern web application that allows users to look up synonyms and antonyms for any English word using the [Thesaurus API](https://api.api-ninjas.com/v1/thesaurus). This app features a user-friendly interface, loading indicators, and dynamic content display.
 
+<a href="https://rojansapkota.github.io/thesaurus-lookup/">
+         <img alt="Image" src="http://image.thum.io/get/width/1200/https://rojansapkota.github.io/thesaurus-lookup/">
+      </a>
+
+
 ## Features
 
 - **Search for Words**: Enter a word to find its synonyms and antonyms.
