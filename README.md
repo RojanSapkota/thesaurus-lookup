@@ -14,6 +14,13 @@ A modern web application that allows users to look up synonyms and antonyms for 
 - **Loading Spinner**: Indicates when data is being fetched.
 - **Error Handling**: Displays appropriate messages if no results are found or if there's an error.
 
+<h2 align="left">👤 Repo Visitors:</h2>
+<p align="left">
+<a href="https://rojansapkota.com.np" target="_blank">
+<img src="https://profile-counter.glitch.me/RojanSapkota_thesaurus-lookup/count.svg" alt="Visitor Counter"/>
+</a>
+</p>
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
